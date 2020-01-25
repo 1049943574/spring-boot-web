@@ -7,5 +7,6 @@ package com.fcl.springbootweb;
 public class Hello {
     public static void main(String[] args) {
         System.out.println(",,,hot");
+        System.out.println("----");
     }
 }
